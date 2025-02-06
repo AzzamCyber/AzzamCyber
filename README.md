@@ -1,5 +1,5 @@
-# Hi there 👋 , I' Am Azzam Cyber!
-Gw bukan hacker tod hanya manusia biasa noob dalam segala hal, ayo belajar bareng-bareng.
+# Hi there 👋 , I' Am Azzam Development !
+Newbie For Developer Fivem Server & Fullstack Developer
 
 
 ### I’m Interested:
