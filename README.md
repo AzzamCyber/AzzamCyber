@@ -39,9 +39,11 @@
 ---
 
 ### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AzzamCyber&show_icons=true&theme=transparent&hide_border=true&title_color=1E90FF&icon_color=1E90FF" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzzamCyber&layout=compact&theme=transparent&hide_border=true&title_color=1E90FF" height="180px"/>
+<p float="left">
+    <img src="https://ghstats.onuralpsezer.com?user=AzzamCyber&theme=dark" width="60%" />
+    <!-- <img src="https://github-profile-trophy.vercel.app/?username=nurrifqialhusaini&row=2&column=3&theme=onedark#1&margin-w=15&margin-h=15" width="50%"> -->
+    <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nurrifqialhusaini&theme=github_dark" width="50%"> -->
+    <img src="https://github-contribution-stats.vercel.app/api/?username=AzzamCyber&theme=onedark" width="30%" />
 </p>
 
 ---
