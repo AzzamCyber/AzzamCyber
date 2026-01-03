@@ -2,7 +2,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=4A90E2&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Azzam+Development;FiveM+Developer;Full+Stack+Web+Developer;Building+Scalable+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Azzam+Development;FiveM+Developer;Full+Stack+Web+Developer" />
 </p>
 
 <p align="center">
