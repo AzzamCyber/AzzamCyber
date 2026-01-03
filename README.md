@@ -1,8 +1,9 @@
 <!-- 👋 README by AZZAM CODEX -->
 
-<h1 align="center">
-  Hi there 👋, I'm <a href="https://github.com/AzzamCyber" target="_blank">Azzam Development</a> !
-</h1>
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=4A90E2&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Azzam+Development;FiveM+Developer;Full+Stack+Web+Developer;Building+Scalable+Systems" />
+</p>
 
 <p align="center">
   <b>Newbie Developer for FiveM Server & Fullstack Web Developer</b>  
