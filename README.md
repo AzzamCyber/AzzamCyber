@@ -18,7 +18,7 @@
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Brain.png" alt="Brain" width="25" /> About Me  
 - 🔹 Currently mastering advanced **FiveM** (Lua, JS, SQL)  
-- 🔹 Building robust web applications with **React, Next.js, Laravel, & PHP** - 🔹 Exploring and developing mobile apps with **React Native**
+- 🔹 Building robust web applications with **React, Next.js, Laravel, & PHP** -  🔹 Exploring and developing mobile apps with **React Native**
 - 🔹 Passionate about **UI/UX** and clean system architecture  
 - 🔹 Always coding with coffee & curiosity <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Coffee" width="20" />  
 
