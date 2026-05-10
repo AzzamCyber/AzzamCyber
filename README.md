@@ -16,7 +16,7 @@
 
 <br><hr><br>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Brain.png" alt="Brain" width="25" /> About Me  
+### <img src="https://png.pngtree.com/png-vector/20250422/ourmid/pngtree-d-human-brain-model-with-pink-glossy-surface-isolated-on-clean-png-image_16076986.png" alt="Brain" width="25" /> About Me  
 - 🔹 Currently mastering advanced **FiveM** (Lua, JS, SQL)  
 - 🔹 Building robust web applications with **React, Next.js, Laravel, & PHP** -  🔹 Exploring and developing mobile apps with **React Native**
 - 🔹 Passionate about **UI/UX** and clean system architecture  
