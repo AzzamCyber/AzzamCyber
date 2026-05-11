@@ -8,7 +8,7 @@
   </a>
 
   <br>
-  <b>Newbie Developer for FiveM Server | Fullstack Web & Mobile Developer</b> 🚀 
+  <b>Newbie Developer for FiveM Server | Fullstack Web & Mobile Developer</b>  🚀 
   <br><br>
 
   <img src="https://komarev.com/ghpvc/?username=AzzamCyber&label=Profile%20Views&color=4A90E2&style=flat-square" alt="Profile Views" />
