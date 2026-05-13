@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=4A90E2&height=200&section=header&text=Azzam%20Codex&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Fullstack%20%7C%20FiveM%20%7C%20Mobile&descAlignY=55&descAlign=62" width="100%" alt="Header Banner" />
-</div> 
+</div>  
 
 <div align="center">
   <a href="https://git.io/typing-svg">
